@@ -2,19 +2,19 @@ site_name: Project Tetsuo
 repo_url: https://github.com/tetsuo-dev/tetsuo.dev-code
 repo_name: tetsuo-dev/code
 plugins:
-  - header.autohide
   - search
   - offline
-  - navigation.tracking
-  - navigation.tabs
-  - navigation.tabs.sticky
-  - navigation.footer
 theme:
   name: material
   features:
     - search.suggest
     - search.highlight
     - search.share
+    - header.autohide
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -30,3 +30,9 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
+      permalink_title: Anchor link to this section for reference
