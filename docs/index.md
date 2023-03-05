@@ -19,7 +19,7 @@ Refer to [MANIFESTO](manifesto.md)
 - [Slack](https://join.slack.com/t/project-tetsuo/shared_invite/zt-1qjawx33o-dtwPtoSlFzAqZcpeHReaBA) #general
 - [Github Discussions](https://github.com/tetsuo-dev/tetsuo.dev-code/issues)
 - [Meeting Notes](https://github.com/tetsuo-dev/tetsuo.dev-code/issues?q=label%3Ameeting+)
-- [Planning](https://github.com/tetsuo-dev/tetsuo.dev-code/projects?type=beta)
+- [Project Planning](https://github.com/orgs/tetsuo-dev/projects/1)
 
 ## Project Contributions
 
