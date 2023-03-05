@@ -1,17 +1,29 @@
-# Welcome to MkDocs
+## Project Name
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Project Tetsuo <https://tetsuo.dev>
 
-## Commands
+## Project Members
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Project Lead, Developer Relations: [Scott Van Kalken](https://github.com/codecowboydotio)
 
-## Project layout
+Project Admin, Security Lead: [Shain Singh](https://github.com/shsingh)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Project Details
+
+Refer to [MANIFESTO](manifesto.md)
+
+## Project Communication
+
+- [Slack](https://join.slack.com/t/project-tetsuo/shared_invite/zt-1qjawx33o-dtwPtoSlFzAqZcpeHReaBA) #general
+- [Github Discussions](https://github.com/tetsuo-dev/tetsuo.dev-code/issues)
+- [Meeting Notes](https://github.com/tetsuo-dev/tetsuo.dev-code/issues?q=label%3Ameeting+)
+- [Planning](https://github.com/tetsuo-dev/tetsuo.dev-code/projects?type=beta)
+
+## Project Contributions
+
+- Provide feedback and report potential bugs
+- Suggest enhancements to the project
+- Fix a [Bug](https://github.com/tetsuo-dev/tetsuo.dev-code/issues?q=is%3Aopen+is%3Aissue+label%3Abug) or implement an
+[Enhancement](https://github.com/tetsuo-dev/tetsuo.dev-code/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement)
+
+Refer to [CONTRIBUTING](contributing.md) and our [CODE_OF_CONDUCT](code_of_conduct.md) for further information.
