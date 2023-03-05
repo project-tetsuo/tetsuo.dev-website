@@ -2,8 +2,13 @@ site_name: Project Tetsuo
 repo_url: https://github.com/tetsuo-dev/tetsuo.dev-code
 repo_name: tetsuo-dev/code
 plugins:
+  - header.autohide
   - search
   - offline
+  - navigation.tracking
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.footer
 theme:
   name: material
   features:
@@ -12,12 +17,16 @@ theme:
     - search.share
   palette:
     # Palette toggle for light mode
-    - scheme: yellow
+    - media: "(prefers-color-scheme: light)"
+      scheme: yellow
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: orange
+      accent: amber
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
