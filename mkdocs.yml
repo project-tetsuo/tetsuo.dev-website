@@ -11,8 +11,7 @@ theme:
     - search.highlight
     - search.share
   palette:
-    - scheme: slate
-    - primary: amber
+    - primary: orange
     - accent: amber
     # Palette toggle for light mode
     - scheme: yellow
