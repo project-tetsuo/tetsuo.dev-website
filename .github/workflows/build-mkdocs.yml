@@ -2,7 +2,7 @@ name: build-mkdocs
 on:
   push:
     branches:
-      - master 
+      - master
       - main
 permissions:
   contents: write
@@ -18,5 +18,5 @@ jobs:
         with:
           key: ${{ github.ref }}
           path: .cache
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
