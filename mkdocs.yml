@@ -7,4 +7,3 @@ theme:
     - search.share
 plugins:
   - search
-  - blog
