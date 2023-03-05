@@ -3,6 +3,7 @@ repo_url: https://github.com/tetsuo-dev/tetsuo.dev-code
 repo_name: tetsuo-dev/code
 plugins:
   - search
+  - offline
 theme:
   name: material
   features:
@@ -10,8 +11,6 @@ theme:
     - search.highlight
     - search.share
   palette:
-    - primary: orange
-    - accent: amber
     # Palette toggle for light mode
     - scheme: yellow
       toggle:
