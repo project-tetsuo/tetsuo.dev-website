@@ -1,4 +1,6 @@
-# project-tetsuo: deploy code not containers
+# MANIFESTO
+
+## project-tetsuo: deploy code not containers
 
 ## What is this?
 
