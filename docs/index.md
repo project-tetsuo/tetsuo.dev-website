@@ -14,6 +14,10 @@ Project Admin, Security Lead: [Shain Singh](https://github.com/shsingh)
 
 Refer to [MANIFESTO](manifesto.md)
 
+## Architecture
+
+Please refer to our evolving [Architecture](architecture.md)
+
 ## Project Communication
 
 - [Slack](https://join.slack.com/t/project-tetsuo/shared_invite/zt-1qjawx33o-dtwPtoSlFzAqZcpeHReaBA) #general
