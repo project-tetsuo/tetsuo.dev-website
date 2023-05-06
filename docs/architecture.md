@@ -13,6 +13,8 @@ The software architecture of Tetsuo is largely based on a few things:
 - Use native NGINX Unit functionality where possible.
 - Have a minimum of services to interact with that will deploy my codebase.
 
+![Tetsuo-overview](/images/Tetsuo-overview.jpg)
+
 The individual services are desribed below.
 
 ## Services
