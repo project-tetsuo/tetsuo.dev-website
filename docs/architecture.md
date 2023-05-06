@@ -30,7 +30,14 @@ The purpose of this service is to receive a request and pull down code from a gi
 
 The service currently accepts some values as part of a post request. 
 
+URL - This represents the URL of the git repository that your code lives in. This is the full http://somegitrepo.com string. That is, the string needs to include the http:// component as well. We figured more people will simply cut and paste this value so including it would make sense.
 
+BRANCH - This is the branch of the code that you would like to pull. This absolutely needs to be included. There is no default given. There is no assumption that "main" is the branch that you would like to pull on our behalf. It is a mandatory field.
+
+```Bash
+curl -s -X POST -H "Content-Type: application/json" http://**TETSUO-SERVER**/pull -d '{"url":"https://github.com/codecowboydotio/swapi-json-server", "branch":"dev"}'
+```
+![git_api](/images/tetsuo-1-1.jpg)
 
 Modules:
 
