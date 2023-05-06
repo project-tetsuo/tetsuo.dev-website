@@ -37,7 +37,7 @@ BRANCH - This is the branch of the code that you would like to pull. This absolu
 ```Bash
 curl -s -X POST -H "Content-Type: application/json" http://**TETSUO-SERVER**/pull -d '{"url":"https://github.com/codecowboydotio/swapi-json-server", "branch":"dev"}'
 ```
-![git_api](/images/tetsuo-1-1.jpg)
+![git_api](/images/tetsuo-1-2.jpg)
 
 Modules:
 
