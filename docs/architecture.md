@@ -42,18 +42,18 @@ curl -s -X POST -H "Content-Type: application/json" http://**TETSUO-SERVER**/pul
 ![git_api](/images/tetsuo-1-2.jpg)
 
 Modules:
-fmt - primarily used for printing outputs for debugging during development.
-os - Used for printing status of git clone (can probably be removed)
-path - Used for expanding the target path on the application server
-net/http - Netwokr library
-net/url - Used to parse the incoming target URL
-github.com/gin-gonic/gin - Gin for REST API 
-github.com/go-git/go-git/v5 - go-git for interacting with GIT
-github.com/swaggo/files - Used to generate swagger docs
-github.com/gin-contrib/cors - Unit does not currently support CORS natively so this is a hack to allow CORS requests for each individual service.
-unit.nginx.org/go - For golang applictions this is the unit router
+* **fmt** - primarily used for printing outputs for debugging during development.
+* **os** - Used for printing status of git clone (can probably be removed)
+* **path** - Used for expanding the target path on the application server
+* **net/http** - Netwokr library
+* **net/url** - Used to parse the incoming target URL
+* **github.com/gin-gonic/gin** - Gin for REST API 
+* **github.com/go-git/go-git/v5** - go-git for interacting with GIT
+* **github.com/swaggo/files** - Used to generate swagger docs
+* **github.com/gin-contrib/cors** - Unit does not currently support CORS natively so this is a hack to allow CORS requests for each individual service.
+* **unit.nginx.org/go** - For golang applictions this is the unit router
 
-Notes: At the moment, the target directory on the unit server is hard coded.
+Notes: At the moment, the target directory on the unit server is hard coded. This is something we have thought about a lot. Given the ultimate aim is a SaaS like service, this has been debated a lot. There is an inherent balance between opinionated and configurable. 
 
 ### Config Service
 
