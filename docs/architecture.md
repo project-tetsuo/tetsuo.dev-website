@@ -57,4 +57,7 @@ Notes: At the moment, the target directory on the unit server is hard coded.
 
 ### Config Service
 
+Language: Python
 
+Purpose: 
+The purpose of the config API is to both update the configuration, but to also 
