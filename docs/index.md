@@ -22,7 +22,8 @@ Please refer to our evolving [Architecture](architecture.md)
 
 To make more sense of what we are doing, we created a short video.
 
-<video src='videos/Tetsuo-part-2.mp4' width=180/>
+[![Watch the video]](https://youtu.be/05Csw7488TE)
+
 
 ## Project Communication
 
