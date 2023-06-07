@@ -22,7 +22,8 @@ Please refer to our evolving [Architecture](architecture.md)
 
 To make more sense of what we are doing, we created a short video.
 
-[<img src="images/tetsuo.jpg" width="50%">](videos/tetsuo-part-2.mp4 "Tetsuo")
+<video src='videos/Tetsuo-part-2.mp4' width=180/>
+[](videos/Tetsuo-part-2.mp4)
 
 ## Project Communication
 
