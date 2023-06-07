@@ -18,6 +18,12 @@ Refer to [MANIFESTO](manifesto.md)
 
 Please refer to our evolving [Architecture](architecture.md)
 
+## Video
+
+To make more sense of what we are doing, we created a short video.
+
+[<img src="images/tetsuo.jpg" width="50%">](videos/tetsuo-part-2.mp4 "Tetsuo")
+
 ## Project Communication
 
 - [Slack](https://join.slack.com/t/project-tetsuo/shared_invite/zt-1qjawx33o-dtwPtoSlFzAqZcpeHReaBA) #general
