@@ -22,7 +22,7 @@ Please refer to our evolving [Architecture](architecture.md)
 
 To make more sense of what we are doing, we created a short video.
 
-[![Watch the video]](https://youtu.be/05Csw7488TE)
+[Watch the video](https://youtu.be/05Csw7488TE)
 
 
 ## Project Communication
