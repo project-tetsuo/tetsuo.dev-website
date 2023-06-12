@@ -14,6 +14,17 @@ Project Admin, Security Lead: [Shain Singh](https://github.com/shsingh)
 
 Refer to [MANIFESTO](manifesto.md)
 
+**What we are**
+- A way to deploy serverless without refactoring code.
+- Deploy direct from your repository.
+- No infrastructure to worry about.
+- Blindingly fast.
+
+**What we are not**
+- Yet another serverless DSL.
+- Lock-in to a platform.
+- A container technology.
+
 ## Architecture
 
 Please refer to our evolving [Architecture](architecture.md)
